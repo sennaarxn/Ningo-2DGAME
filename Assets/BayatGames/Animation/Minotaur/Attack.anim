@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Attack
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: -7880400722853200588, guid: 7a006e3db9724194f9448011976422d4, type: 3}
+    - time: 0.083333336
+      value: {fileID: 729920294059395899, guid: 17dd13cbab68e764aae4e6a74d0ea019, type: 3}
+    - time: 0.16666667
+      value: {fileID: 5306067078110211732, guid: 0ff0e302f542cb549a849becad23a369, type: 3}
+    - time: 0.25
+      value: {fileID: -6754714765173971506, guid: a2dbe7883fea66243bb7d3053503183e, type: 3}
+    - time: 0.33333334
+      value: {fileID: 172891453475096176, guid: 5c70f68e005955048824e1b3cc6d64eb, type: 3}
+    - time: 0.41666666
+      value: {fileID: 6167395595620246634, guid: 0f58559cf554a504b870250f3029f172, type: 3}
+    - time: 0.5
+      value: {fileID: -5897834523580119463, guid: 734f0e2e87a13314fb5110a774aaee81, type: 3}
+    - time: 0.5833333
+      value: {fileID: 4874673617929026969, guid: 742c5c61ba89f914cb3b3d01c979e2f0, type: 3}
+    - time: 0.6666667
+      value: {fileID: 3155658689967694233, guid: fae6e058d0b672e4b92da8a63d34ddd1, type: 3}
+    - time: 0.75
+      value: {fileID: -1323363415189470746, guid: 907d109810a307349a6e3ff5dd4f9f15, type: 3}
+    - time: 0.8333333
+      value: {fileID: -2179261489970768831, guid: b8da0c23ba23ddb4b85a478fb1602329, type: 3}
+    - time: 0.9166667
+      value: {fileID: -1362876031342490720, guid: d5e62deca742f4441bf0e492b29190d0, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: -7880400722853200588, guid: 7a006e3db9724194f9448011976422d4, type: 3}
+    - {fileID: 729920294059395899, guid: 17dd13cbab68e764aae4e6a74d0ea019, type: 3}
+    - {fileID: 5306067078110211732, guid: 0ff0e302f542cb549a849becad23a369, type: 3}
+    - {fileID: -6754714765173971506, guid: a2dbe7883fea66243bb7d3053503183e, type: 3}
+    - {fileID: 172891453475096176, guid: 5c70f68e005955048824e1b3cc6d64eb, type: 3}
+    - {fileID: 6167395595620246634, guid: 0f58559cf554a504b870250f3029f172, type: 3}
+    - {fileID: -5897834523580119463, guid: 734f0e2e87a13314fb5110a774aaee81, type: 3}
+    - {fileID: 4874673617929026969, guid: 742c5c61ba89f914cb3b3d01c979e2f0, type: 3}
+    - {fileID: 3155658689967694233, guid: fae6e058d0b672e4b92da8a63d34ddd1, type: 3}
+    - {fileID: -1323363415189470746, guid: 907d109810a307349a6e3ff5dd4f9f15, type: 3}
+    - {fileID: -2179261489970768831, guid: b8da0c23ba23ddb4b85a478fb1602329, type: 3}
+    - {fileID: -1362876031342490720, guid: d5e62deca742f4441bf0e492b29190d0, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0
+    functionName: OnAttackStart
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.75
+    functionName: PlayerDamage
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.9166667
+    functionName: OnAttackEnd
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
